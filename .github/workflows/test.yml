@@ -1,4 +1,4 @@
-ame: Node.js CI
+name: Node.js CI
 
 # Ejecutar en cada push y pull request
 on:
